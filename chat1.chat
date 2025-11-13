@@ -1,0 +1,37 @@
+{
+  "messages": [
+    {
+      "raw_time": false,
+      "sender": "b416a550f43c42d79bc697a197fbf34f",
+      "body": "Hi",
+      "type": "msg",
+      "id": "50051d17-48fb-4e93-9010-86f958d796c7",
+      "time": 1762340512.3170528
+    }
+  ],
+  "users": {
+    "jupyter-ai-personas::jupyter_ai_jupyternaut::JupyternautPersona": {
+      "avatar_url": "/api/ai/avatars/jupyter-ai-personas%3A%3Ajupyter_ai_jupyternaut%3A%3AJupyternautPersona",
+      "name": "Jupyternaut",
+      "username": "jupyter-ai-personas::jupyter_ai_jupyternaut::JupyternautPersona",
+      "color": null,
+      "initials": null,
+      "bot": true,
+      "display_name": "Jupyternaut"
+    },
+    "b416a550f43c42d79bc697a197fbf34f": {
+      "display_name": "Anonymous Iocaste",
+      "mention_name": "Anonymous-Iocaste",
+      "avatar_url": null,
+      "bot": false,
+      "username": "b416a550f43c42d79bc697a197fbf34f",
+      "color": "var(--jp-collaborator-color3)",
+      "name": "Anonymous Iocaste",
+      "initials": "AI"
+    }
+  },
+  "attachments": {},
+  "metadata": {
+    "id": "9f652a74-349d-45ec-b424-a88cbfbdccc4"
+  }
+}
